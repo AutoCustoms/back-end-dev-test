@@ -5,7 +5,7 @@ Hello & thank you for your interest in joining our team. We've setup a few littl
 ## Skills Test
 
 ### Instructions
-Implement a modern [command-line application](https://learn.co/lessons/intro-to-cli-applications) in the programming language of your choice. This application should fetch the list of public repositories for any Github user that is passed as an argument to the application from the command line. The application should output to the console the repository name and the number of star gazers in an aesthetically pleasing table in the terminal sorted by stargazers_count in the order that is **specified by an option on the command line**.
+Implement a modern [command-line application](https://learn.co/lessons/intro-to-cli-applications) in the programming language of your choice. This application should fetch the list of public repositories for any Github user using the [Github API](https://developer.github.com/v3/) that is passed as an argument to the application from the command line. The application should output to the console the repository name and the number of star gazers in an aesthetically pleasing table in the terminal sorted by stargazers_count in the order that is **specified by an option on the command line**.
 
 Example command execution:
 ```githubfetcher autocustoms asc```
