@@ -1,6 +1,6 @@
 # Back-End Dev Test
 
-Hello & thank you for your interest in joining our team. We've setup a few little exercises to help assess your skillset.
+Hello! Thank you for your interest in joining our team. We've setup a few little exercises to help assess your skillset.
 
 ## Skills Test
 
