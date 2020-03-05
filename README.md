@@ -18,4 +18,4 @@ Publish your work to a public Github repository and provide detailed instruction
 - We do not suffer from [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) around here.
 - We love open source software!
 - We aspire to have reasonable unit test coverage.
-- Emphasis is on “modern”, if your language of choice has a popular framework for building CLI applications please us it! For example, [Picocli for Java](https://picocli.info/), [Click for Python](https://github.com/pallets/click), [oclif for Node](https://github.com/oclif/oclif), [Laravel Zero for PHP](https://github.com/laravel-zero/laravel-zero)
+- Emphasis is on “modern”, if your language of choice has a popular framework for building CLI applications please use it! For example, [Picocli for Java](https://picocli.info/), [Click for Python](https://github.com/pallets/click), [oclif for Node](https://github.com/oclif/oclif), [Laravel Zero for PHP](https://github.com/laravel-zero/laravel-zero)
